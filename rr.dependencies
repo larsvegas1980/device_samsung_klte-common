@@ -1,0 +1,18 @@
+[
+  {
+    "repository":  "device_samsung_msm8974-common",
+    "target_path": "device/samsung/msm8974-common",
+    "branch":      "Q"
+  },
+  {
+    "repository":  "kernel_samsung_klte-common",
+    "target_path": "kernel/samsung/klte-common",
+    "branch":      "3.4.113"
+  },
+  {
+    "remote":      "github",
+    "repository":  "FiestaLake/proprietary_vendor_samsung",
+    "target_path": "vendor/samsung",
+    "branch":      "10.0"
+  }
+]
